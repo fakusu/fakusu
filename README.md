@@ -1,4 +1,4 @@
-# Hey, I'm Facundo 👋
+👋···🛠📌——📫# Hey, I'm Facundo 👋
 
 Full Stack Developer (Backend-focused) based in Buenos Aires, Argentina.  
 Currently completing a Software Development Technical Degree while working in e-commerce operations and automation.
