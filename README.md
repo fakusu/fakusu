@@ -1,4 +1,4 @@
-👋···🛠📌——📫# Hey, I'm Facundo 👋
+# Hey, I'm Facundo 👋
 
 Full Stack Developer (Backend-focused) based in Buenos Aires, Argentina.  
 Currently completing a Software Development Technical Degree while working in e-commerce operations and automation.
@@ -10,21 +10,21 @@ My background combines real-world API integrations (Mercado Libre REST API, elec
 
 ## 🛠 Tech Stack
 
-**Backend**  
+**Backend**
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
-**Frontend**  
+**Frontend**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
-**Database**  
+**Database**
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-**Tools**  
+**Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
@@ -43,10 +43,6 @@ Desktop application in C# with full layered architecture — Entities, Services,
 ### [GestionZapatillas](https://github.com/fakusu/GestionZapatillas)
 Inventory management system built in C#.  
 `C#` `OOP` `CRUD`
-
-### [CiberKiosco](https://github.com/fakusu/CiberKiosco)
-Kiosk management system in C#.  
-`C#` `OOP`
 
 ---
 
