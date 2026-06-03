@@ -44,6 +44,10 @@ Desktop application in C# with full layered architecture — Entities, Services,
 Inventory management system built in C#.  
 `C#` `OOP` `CRUD`
 
+### [LMU Setup Forge](https://lmu-setups.vercel.app)
+Full-stack web app for generating and sharing car setups for Le Mans Ultimate simulator. AI-powered setup generation (Llama 3.1 8B via Groq), user auth, community library, PDF/.svm export. 31 cars · 14 tracks.  
+`React` `Node.js` `TypeScript` `Groq AI` `Vercel`
+
 ---
 
 ## 📫 Contact
